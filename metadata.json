@@ -1,0 +1,6 @@
+{
+  "name": "FitTrack",
+  "description": "A complete fitness tracker app with step tracking, workout logs, weekly stats, activity history, and BMI calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
